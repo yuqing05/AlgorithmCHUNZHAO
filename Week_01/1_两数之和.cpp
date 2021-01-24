@@ -1,7 +1,6 @@
 /*
- * @Author: zhouyuqing
  * @Date: 2021-01-23 21:43:47
- * @LastEditTime: 2021-01-24 14:21:17
+ * @LastEditTime: 2021-01-24 17:03:25
  * @LinkPath: https://leetcode-cn.com/problems/two-sum/
  */
 

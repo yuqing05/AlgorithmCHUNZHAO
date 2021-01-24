@@ -1,5 +1,4 @@
 /*
- * @Author: zhouyuqing
  * @Date: 2021-01-23 21:46:38
  * @LastEditTime: 2021-01-24 12:50:06
  * @LinkPath: https://leetcode.com/problems/trapping-rain-water/

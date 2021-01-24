@@ -1,7 +1,6 @@
 /*
- * @Author: zhouyuqing
  * @Date: 2021-01-23 21:46:23
- * @LastEditTime: 2021-01-24 14:22:27
+ * @LastEditTime: 2021-01-24 17:03:44
  * @LinkPath: https://leetcode-cn.com/problems/group-anagrams/
  */
 

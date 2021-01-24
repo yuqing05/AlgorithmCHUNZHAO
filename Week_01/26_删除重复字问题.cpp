@@ -1,7 +1,6 @@
 /*
- * @Author: zhouyuqing
  * @Date: 2021-01-23 21:43:47
- * @LastEditTime: 2021-01-24 14:22:18
+ * @LastEditTime: 2021-01-24 17:03:33
  * @LinkPath: https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
  */
 

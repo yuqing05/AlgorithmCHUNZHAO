@@ -1,7 +1,6 @@
 /*
- * @Author: 周雨晴
  * @Date: 2021-01-23 21:45:59
- * @LastEditTime: 2021-01-24 14:22:06
+ * @LastEditTime: 2021-01-24 17:04:13
  * @LinkPath: https://leetcode.com/problems/design-circular-deque/
  */
 
