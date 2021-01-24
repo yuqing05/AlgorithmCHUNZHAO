@@ -1,5 +1,4 @@
 /*
- * @Author: zhouyuqing
  * @Date: 2021-01-23 21:44:33
  * @LastEditTime: 2021-01-24 14:21:34
  * @FilePath: https://leetcode-cn.com/problems/plus-one/
