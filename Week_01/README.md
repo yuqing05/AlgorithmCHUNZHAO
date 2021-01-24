@@ -123,6 +123,32 @@
    
    空间复杂度分析：O(n)
    
+8. priority_queue
+   
+   是优先队列，用一个堆来实现的
+   
+   c++默认的是使用 deque来实现的一个大根堆，top是最大值
+    ```
+    template<
+    class T,
+    class Container = std::vector<T>,
+    class Compare = std::less<typename Container::value_type> > class priority_queue;
+    ```
+    容器需要支持：front(),push_back(),pop_back()
+    
+   
+   支持的操作：
+   
+   push: O(logn)
+   
+   top: O(1)
+   
+   pop: O(logn)
+   
+   empty:O(1)
+   
+   
+   
    
    
    
