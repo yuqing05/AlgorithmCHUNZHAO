@@ -1,5 +1,4 @@
 /*
- * @Author: zhouyuqing
  * @Date: 2021-01-23 21:43:28
  * @LastEditTime: 2021-01-24 12:51:54
  * @LinkPath:  https://leetcode-cn.com/problems/merge-sorted-array/
