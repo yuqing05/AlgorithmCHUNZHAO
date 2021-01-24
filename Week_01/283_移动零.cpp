@@ -1,5 +1,4 @@
 /*
- * @Author: zhouyuqing
  * @Date: 2021-01-23 21:44:05
  * @LastEditTime: 2021-01-24 14:21:58
  * @LinkPath: https://leetcode-cn.com/problems/move-zeroes/
