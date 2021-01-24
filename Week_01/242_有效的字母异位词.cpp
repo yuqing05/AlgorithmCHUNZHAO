@@ -1,5 +1,4 @@
 /*
- * @Author: zhouyuqing
  * @Date: 2021-01-23 21:45:09
  * @LastEditTime: 2021-01-24 14:22:37
  * @LinkPath: https://leetcode-cn.com/problems/valid-anagram/description/
