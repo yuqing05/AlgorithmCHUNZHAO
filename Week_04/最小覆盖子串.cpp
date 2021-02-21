@@ -1,11 +1,4 @@
-/*
- * @Author: your name
- * @Date: 2021-02-20 11:17:56
- * @LastEditTime: 2021-02-21 23:45:40
- * @LastEditors: your name
- * @Description: In User Settings Edit
- * @FilePath: /Week_04/最小覆盖子串.cpp
- */
+
 // 给你一个字符串 s 、一个字符串 t 。返回 s 中涵盖 t 所有字符的最小子串。如果 s 中不存在涵盖 t 所有字符的子串，则返回空字符串 "" 。
 // 
 // 注意：如果 s 中存在这样的子串，我们保证它是唯一的答案。
