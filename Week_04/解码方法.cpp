@@ -1,11 +1,3 @@
-/*
- * @Author: your name
- * @Date: 2021-02-20 11:14:41
- * @LastEditTime: 2021-02-20 23:09:17
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: /Week_04/解码方法.cpp
- */
 // 一条包含字母 A-Z 的消息通过以下映射进行了 编码 ：
 //
 // 'A' -> 1
